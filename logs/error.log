@@ -1,0 +1,10 @@
+2017/06/16 05:57:03 [error] 10056#5504: *1 CreateFile() "G:\nginx-1.13.1/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost"
+2017/06/16 05:58:13 [error] 4560#6512: *1 CreateFile() "G:\nginx-1.13.1/html/test/test.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/test.html HTTP/1.1", host: "localhost"
+2017/06/16 05:58:20 [error] 4560#6512: *1 CreateFile() "G:\nginx-1.13.1/html/test/test.php" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/test.php HTTP/1.1", host: "localhost"
+2017/06/16 05:58:25 [error] 4560#6512: *1 "G:\nginx-1.13.1/html/test/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "localhost"
+2017/06/16 06:00:21 [error] 1552#6852: *1 "G:\nginx-1.13.1/html/test/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "localhost"
+2017/06/16 06:01:39 [error] 8900#1764: *1 CreateFile() "G:\nginx-1.13.1/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost"
+2017/06/16 09:39:20 [warn] 6672#9320: server name "https://dev-exchange.guldentrader.com/" has suspicious symbols in G:\nginx-1.13.1/conf/nginx.conf:36
+2017/06/16 09:39:20 [warn] 1308#8816: server name "https://dev-exchange.guldentrader.com/" has suspicious symbols in G:\nginx-1.13.1/conf/nginx.conf:36
+2017/06/16 10:04:12 [warn] 236#4876: server name "https://dev-exchange.guldentrader.com/" has suspicious symbols in G:\nginx-1.13.1/conf/nginx.conf:36
+2017/06/16 10:04:12 [warn] 3404#7972: server name "https://dev-exchange.guldentrader.com/" has suspicious symbols in G:\nginx-1.13.1/conf/nginx.conf:36
